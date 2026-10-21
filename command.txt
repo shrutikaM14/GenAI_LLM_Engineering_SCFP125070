@@ -1,0 +1,5 @@
+to create environment :- python -m venv myenv
+Activate :- # windows -  .myenv\Scripts\activate
+
+
+pip install python-dotenv
